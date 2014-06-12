@@ -33,6 +33,7 @@
   "permissions": [
     "*://chromiumcodereview.appspot.com/*",
     "*://codereview.chromium.org/*",
+    "*://codereivew.appspot.com/*",
     "webRequest",
     "webRequestBlocking"
   ]
